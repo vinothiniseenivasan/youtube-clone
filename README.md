@@ -13,8 +13,10 @@ and JavaScript skills. It includes basic features such as browsing videos,
 searching, and viewing video details.
 </p>
 <p>
-<strong>##ScreenShot </strong>
-  ![youtube-screenshot](https://github.com/vinothiniseenivasan/youtube-clone/assets/137482214/019b0833-8cb3-4307-b60f-80eb64461694)
+##ScreenShot 
+![image](https://github.com/vinothiniseenivasan/youtube-clone/assets/137482214/07c03b4b-769d-4dae-814f-b4cbd2df9608)
+
+ 
 </p>
 <p>
 </p>
