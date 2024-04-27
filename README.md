@@ -15,10 +15,10 @@ searching, and viewing video details.
 <p>
 <strong>##ScreenShot </strong>
 </p>
-<p>
+
 ![Screenshot 2024-04-27
 154748](https://github.com/vinothiniseenivasan/youtube-clone/assets/137482214/b6bb2eff-b62f-4372-b0da-e29293a0e203)
-</p>
+
 <p>
 </p>
 <p>
