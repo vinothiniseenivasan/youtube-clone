@@ -14,7 +14,7 @@ searching, and viewing video details.
 </p>
 <p>
 ##ScreenShot 
-![image](https://github.com/vinothiniseenivasan/youtube-clone/assets/137482214/07c03b4b-769d-4dae-814f-b4cbd2df9608)
+![youtube-screenshot](https://github.com/vinothiniseenivasan/youtube-clone/assets/137482214/f59d6147-34d3-49c8-ad2f-0648c73eeb9e)
 
  
 </p>
